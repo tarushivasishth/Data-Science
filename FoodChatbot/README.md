@@ -11,14 +11,7 @@
 3. [Tools and Technologies](#tools-and-technologies)  
 4. [Architecture](#architecture)  
 5. [Setup and Installation](#setup-and-installation)  
-6. [How It Works](#how-it-works)  
-7. [Database Schema](#database-schema)  
-8. [Chatbot Intents](#chatbot-intents)  
-9. [Webpage Integration](#webpage-integration)  
-10. [Future Work](#future-work)  
-11. [Contributing](#contributing)  
-12. [Acknowledgements](#acknowledgements)  
-13. [License](#license)  
+
 
 ---
 
@@ -46,7 +39,7 @@ The chatbot is trained with **Dialogflow**, and it interacts with a **MySQL data
 ## **Tools and Technologies**
 - **Chatbot Framework**: Dialogflow  
 - **Frontend**: HTML, CSS  
-- **Backend**: FastAPI(if applicable)  
+- **Backend**: FastAPI
 - **Database**: MySQL  
 - **Languages**: Python (for backend), SQL  
 
@@ -67,12 +60,12 @@ The chatbot is trained with **Dialogflow**, and it interacts with a **MySQL data
 
 ## **Setup and Installation**
 ### **Prerequisites**
-- Python (if backend is Flask) or Node.js (if backend is JavaScript).  
+- Python (if backend is FastAPI) 
 - MySQL database server.  
 - Dialogflow account.  
 
 ### **Steps**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/order-management-chatbot.git
-   cd order-management-chatbot
+   git clone https://github.com/tarushivasishth/Data-Science/tree/main/FoodChatbot
+   cd FoodChatbot
