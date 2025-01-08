@@ -43,4 +43,4 @@ This project uses **Convolutional Neural Networks (CNNs)**, a state-of-the-art d
 ### **Clone the Repository**
 ```bash
 git clone https://github.com/tarushivasishth/Data-Science/tree/main/tomato_classification
-cd tomato-disease-classification
+cd tomato_classification
